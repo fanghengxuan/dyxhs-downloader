@@ -1,0 +1,9 @@
+dyxhs-downloader includes code and ideas ported from:
+
+Mithranda/agent-reach-douyin
+https://github.com/Mithranda/agent-reach-douyin
+MIT License, Copyright (c) 2025 Agent Eyes
+
+The original project's MIT license text is reproduced in this repository's
+LICENSE file requirements; the copyright notice above must be retained in
+copies or substantial portions of the derived Douyin parsing code.
